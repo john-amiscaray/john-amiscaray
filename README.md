@@ -5,11 +5,9 @@
 - 📝 You can find my programming tutorials at [https://www.section.io/engineering-education/authors/john-amiscaray/](https://www.section.io/engineering-education/authors/john-amiscaray/)
 - 📫 Contact me at **john_ernest_amiscaray@outlook.com**
 
-<h3 align="left">Preview of my articles:</h3>
+<!-- <h3 align="left">Preview of my articles:</h3> -->
 
-<!--START_SECTION:data-section-->
-
-<!--END_SECTION:data-section-->
+<!--START_SECTION:data-section--><!--END_SECTION:data-section-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
