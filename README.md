@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Commission](https://github.com/john-amiscaray/commission)
 
 - 📝 You can find my programming tutorials at [https://www.section.io/engineering-education/authors/john-amiscaray/](https://www.section.io/engineering-education/authors/john-amiscaray/)
-
+<!--START_SECTION:data-section--><!--START_SECTION:data-section-->
 - 📫 Contact me at **john_ernest_amiscaray@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
