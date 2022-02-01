@@ -7,7 +7,9 @@
 
 <!-- <h3 align="left">Preview of my articles:</h3> -->
 
-<!--START_SECTION:data-section--><!--END_SECTION:data-section-->
+<!--START_SECTION:data-section-->
+
+<!--END_SECTION:data-section-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
