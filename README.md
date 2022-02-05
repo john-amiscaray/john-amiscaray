@@ -9,7 +9,7 @@
 
 <!--START_SECTION:data-section-->
 
-<!--START_SECTION:data-section-->
+<!--END_SECTION:data-section-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
