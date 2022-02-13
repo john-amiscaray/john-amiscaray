@@ -5,12 +5,6 @@
 - 📝 You can find my programming tutorials at [https://www.section.io/engineering-education/authors/john-amiscaray/](https://www.section.io/engineering-education/authors/john-amiscaray/)
 - 📫 Contact me at **john_ernest_amiscaray@outlook.com**
 
-<!-- <h3 align="left">Preview of my articles:</h3> -->
-
-<!--START_SECTION:data-section-->
-
-<!--END_SECTION:data-section-->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/john-amiscaray/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-amiscaray/" height="30" width="40" /></a>
