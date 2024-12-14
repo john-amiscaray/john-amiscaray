@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Amiscaray</h1>
 <h3 align="center">A passionate backend developer and technical writer from Canada</h3>
 
-- 🔭 I’m currently working on [Stir](https://github.com/john-amiscaray/Stir)
+- 🔭 I’m currently working on [Quak Framework](https://github.com/john-amiscaray/QuakFramework)
 - 📝 You can find my programming tutorials at [https://www.section.io/engineering-education/authors/john-amiscaray/](https://www.section.io/engineering-education/authors/john-amiscaray/)
 - 📫 Contact me at **john_ernest_amiscaray@outlook.com**
 
